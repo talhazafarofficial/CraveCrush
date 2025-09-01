@@ -1,6 +1,6 @@
 # CraveCrush
 
-. It features a robust admin dashboard, guest and registered user ordering, real-time notifications, image upload, and a seamless cart and checkout experience.
+CraveCrush is a modern, full-stack fast-food ordering web application. It features a robust admin dashboard, guest and registered user ordering, real-time notifications, image upload, and a seamless cart and checkout experience.
 
 ## Live Demo
 Visit the live site: [CraveCrush](https://cravecrush.vercel.app)
